@@ -1,0 +1,8 @@
+D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExemploWhile\src\ConsoleExemploWhile\bin\Debug\ConsoleExemploWhile.exe.config
+D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExemploWhile\src\ConsoleExemploWhile\bin\Debug\ConsoleExemploWhile.exe
+D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExemploWhile\src\ConsoleExemploWhile\bin\Debug\ConsoleExemploWhile.pdb
+D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExemploWhile\src\ConsoleExemploWhile\obj\Debug\ConsoleExemploWhile.csproj.AssemblyReference.cache
+D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExemploWhile\src\ConsoleExemploWhile\obj\Debug\ConsoleExemploWhile.csproj.SuggestedBindingRedirects.cache
+D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExemploWhile\src\ConsoleExemploWhile\obj\Debug\ConsoleExemploWhile.csproj.CoreCompileInputs.cache
+D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExemploWhile\src\ConsoleExemploWhile\obj\Debug\ConsoleExemploWhile.exe
+D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExemploWhile\src\ConsoleExemploWhile\obj\Debug\ConsoleExemploWhile.pdb

@@ -1,0 +1,6 @@
+D:\pedro\Documents\Repositorios\Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.dll
+D:\pedro\Documents\Repositorios\Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.pdb
+D:\pedro\Documents\Repositorios\Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.csproj.AssemblyReference.cache
+D:\pedro\Documents\Repositorios\Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.csproj.CoreCompileInputs.cache
+D:\pedro\Documents\Repositorios\Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.dll
+D:\pedro\Documents\Repositorios\Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.pdb
