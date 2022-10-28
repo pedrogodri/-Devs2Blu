@@ -1,0 +1,216 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;1,300&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body { 
+    width: 100vw;
+    overflow-x: hidden;
+    background-color: #ffffff;
+}
+
+header#topo {
+    width: 100vw;
+    height: 70px;
+    padding: 0.5em;
+    background-image: linear-gradient(#ff4500, #ffa500);
+}
+
+#topo-logo {
+    height: 80px;
+    display: inline-flex;
+    line-height: 100px;
+    color: #ffffff;
+    text-shadow: 2px 1px 2px #000000;
+    font-size: 15px;
+}
+
+#topo-logo h2 {
+    text-align: center;
+    margin-top: -15px;
+    margin-left: 140px;
+}
+
+#topo-logo img {
+    width: 50px;
+    height: 50px;
+    margin-top: 8px;
+}
+
+#topo-logo img.img-localizacao {
+    text-align: left;
+}
+
+div.destaques {
+    display: block;
+    width: 90%;
+    padding-bottom: 1em;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
+    box-shadow: 4px 4px 4px #ffa500;
+    border-radius: 16px;
+    border-color: #ff4500;
+}
+
+div.destaques img {
+    width: 140px;
+    height: 137px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.two-columns {
+    display: block;
+    width: 90%;
+    padding-bottom: 1em;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
+    box-shadow: 4px 4px 4px #ffa500;
+    border-radius: 16px;
+    border-color: #ff4500;
+    margin-top: 3em;
+    margin-bottom: 5em;
+}
+
+.two-columns main h3 {
+    padding-top: 4%;
+    padding-left: 5%;
+    border-bottom: 1px solid #567ebb;
+    margin-top: 10px;
+}
+
+.columns {
+    width: 45%;
+    display: block;
+    margin-left: 5%;
+    margin-top: 25px;
+    float: left;
+}
+
+.two-columns ul {
+    list-style: none;
+    padding: 0;
+}
+
+.two-columns:after {
+    display: block;
+    clear: both;
+    content: "";
+}
+
+.bebidas-container {
+    margin-bottom: .4em;
+}
+
+.bebidas-container h4 {
+    width: 90%;
+    background-image: linear-gradient(#ff4500, #ffa500);
+    color: #ffffff;
+    text-shadow: 2px 1px 2px #000000;
+    padding-left: .5em;
+}
+
+.bebidas-container p,i {
+    margin-left: .3em;
+}
+
+.carnes-container {
+    margin-bottom: .4em;
+}
+
+.carnes-container h4 {
+    width: 90%;
+    background-image: linear-gradient(#ff4500, #ffa500);
+    color: #ffffff;
+    text-shadow: 2px 1px 2px #000000;
+    padding-left: .5em;
+}
+
+.carnes-container p,i {
+    margin-left: .3em;
+}
+
+.padaria-container {
+    margin-bottom: .4em;
+}
+
+.padaria-container h4 {
+    width: 90%;
+    background-image: linear-gradient(#ff4500, #ffa500);
+    color: #ffffff;
+    text-shadow: 2px 1px 2px #000000;
+    padding-left: .5em;
+}
+
+.padaria-container p,i {
+    margin-left: .3em;
+}
+
+.higiene-container {
+    margin-bottom: .4em;
+}
+
+.higiene-container h4 {
+    width: 90%;
+    background-image: linear-gradient(#ff4500, #ffa500);
+    color: #ffffff;
+    text-shadow: 2px 1px 2px #000000;
+    padding-left: .5em;
+}
+
+.higiene-container p,i {
+    margin-left: .3em;
+}
+
+.grandes-marcas {
+    width: 90%;
+    padding-bottom: 1em;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: 5%;
+    margin-bottom: 20px;
+    background-color: beige;
+    box-shadow: 4px 4px 4px #ffa500;
+    border-radius: 16px;
+    border-color: #ff4500;
+    display: inline-flex;
+}
+
+.grandes-marcas img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+footer {
+    width: 100vw;
+    height: 70px;
+    padding: 0.5em;
+    background-image: linear-gradient(#ff4500, #ffa500);
+    display: inline-flex;
+}
+
+footer section img {
+    width: 32px;
+    height: 32px;
+    padding-left: 10px;
+}
+
+footer section p,h6 {
+    display: inline;
+    height: 50px;
+}
+
+footer section#redes-sociais img {
+    padding-top: 25px;
+    padding-left: 100px;
+}

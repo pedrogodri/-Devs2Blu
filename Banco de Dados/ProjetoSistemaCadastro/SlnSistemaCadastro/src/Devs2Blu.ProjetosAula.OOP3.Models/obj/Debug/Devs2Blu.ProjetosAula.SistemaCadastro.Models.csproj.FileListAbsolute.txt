@@ -1,0 +1,18 @@
+C:\Devs2Blu\cursocsharpDevs2Blu\BancoDados\Aula4_ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Devs2Blu\cursocsharpDevs2Blu\BancoDados\Aula4_ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+C:\Devs2Blu\cursocsharpDevs2Blu\BancoDados\Aula4_ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.SistemaCadastro.Models.csproj.AssemblyReference.cache
+C:\Devs2Blu\cursocsharpDevs2Blu\BancoDados\Aula4_ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.SistemaCadastro.Models.csproj.CoreCompileInputs.cache
+C:\Devs2Blu\cursocsharpDevs2Blu\BancoDados\Aula4_ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Devs2Blu\cursocsharpDevs2Blu\BancoDados\Aula4_ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\SistemaCadastroHospital_ProjetoColaborativoDevs2Blu-yasmin\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\SistemaCadastroHospital_ProjetoColaborativoDevs2Blu-yasmin\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\SistemaCadastroHospital_ProjetoColaborativoDevs2Blu-yasmin\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.SistemaCadastro.Models.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\SistemaCadastroHospital_ProjetoColaborativoDevs2Blu-yasmin\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.SistemaCadastro.Models.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\SistemaCadastroHospital_ProjetoColaborativoDevs2Blu-yasmin\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\SistemaCadastroHospital_ProjetoColaborativoDevs2Blu-yasmin\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+D:\pedro\Documents\+Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+D:\pedro\Documents\+Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+D:\pedro\Documents\+Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.SistemaCadastro.Models.csproj.AssemblyReference.cache
+D:\pedro\Documents\+Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.SistemaCadastro.Models.csproj.CoreCompileInputs.cache
+D:\pedro\Documents\+Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+D:\pedro\Documents\+Devs2Blu\Banco de Dados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
