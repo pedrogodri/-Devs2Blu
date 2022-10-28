@@ -1,8 +1,0 @@
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaSwitch\SlnExerciciosSwitch\src\ConsoleExerciciosSwitch\bin\Debug\ConsoleExerciciosSwitch.exe.config
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaSwitch\SlnExerciciosSwitch\src\ConsoleExerciciosSwitch\bin\Debug\ConsoleExerciciosSwitch.exe
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaSwitch\SlnExerciciosSwitch\src\ConsoleExerciciosSwitch\bin\Debug\ConsoleExerciciosSwitch.pdb
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaSwitch\SlnExerciciosSwitch\src\ConsoleExerciciosSwitch\obj\Debug\ConsoleExerciciosSwitch.csproj.AssemblyReference.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaSwitch\SlnExerciciosSwitch\src\ConsoleExerciciosSwitch\obj\Debug\ConsoleExerciciosSwitch.csproj.SuggestedBindingRedirects.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaSwitch\SlnExerciciosSwitch\src\ConsoleExerciciosSwitch\obj\Debug\ConsoleExerciciosSwitch.csproj.CoreCompileInputs.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaSwitch\SlnExerciciosSwitch\src\ConsoleExerciciosSwitch\obj\Debug\ConsoleExerciciosSwitch.exe
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaSwitch\SlnExerciciosSwitch\src\ConsoleExerciciosSwitch\obj\Debug\ConsoleExerciciosSwitch.pdb
