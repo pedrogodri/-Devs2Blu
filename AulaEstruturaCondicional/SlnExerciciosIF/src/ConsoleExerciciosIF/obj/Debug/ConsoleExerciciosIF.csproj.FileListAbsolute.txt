@@ -1,8 +1,0 @@
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaEstruturaCondicional\SlnExerciciosIF\src\ConsoleExerciciosIF\bin\Debug\ConsoleExerciciosIF.exe.config
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaEstruturaCondicional\SlnExerciciosIF\src\ConsoleExerciciosIF\bin\Debug\ConsoleExerciciosIF.exe
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaEstruturaCondicional\SlnExerciciosIF\src\ConsoleExerciciosIF\bin\Debug\ConsoleExerciciosIF.pdb
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaEstruturaCondicional\SlnExerciciosIF\src\ConsoleExerciciosIF\obj\Debug\ConsoleExerciciosIF.csproj.AssemblyReference.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaEstruturaCondicional\SlnExerciciosIF\src\ConsoleExerciciosIF\obj\Debug\ConsoleExerciciosIF.csproj.SuggestedBindingRedirects.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaEstruturaCondicional\SlnExerciciosIF\src\ConsoleExerciciosIF\obj\Debug\ConsoleExerciciosIF.csproj.CoreCompileInputs.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaEstruturaCondicional\SlnExerciciosIF\src\ConsoleExerciciosIF\obj\Debug\ConsoleExerciciosIF.exe
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaEstruturaCondicional\SlnExerciciosIF\src\ConsoleExerciciosIF\obj\Debug\ConsoleExerciciosIF.pdb
