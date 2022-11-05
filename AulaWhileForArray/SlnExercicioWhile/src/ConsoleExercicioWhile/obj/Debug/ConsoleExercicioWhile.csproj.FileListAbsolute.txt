@@ -1,8 +1,0 @@
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExercicioWhile\src\ConsoleExercicioWhile\bin\Debug\ConsoleExercicioWhile.exe.config
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExercicioWhile\src\ConsoleExercicioWhile\bin\Debug\ConsoleExercicioWhile.exe
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExercicioWhile\src\ConsoleExercicioWhile\bin\Debug\ConsoleExercicioWhile.pdb
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExercicioWhile\src\ConsoleExercicioWhile\obj\Debug\ConsoleExercicioWhile.csproj.AssemblyReference.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExercicioWhile\src\ConsoleExercicioWhile\obj\Debug\ConsoleExercicioWhile.csproj.SuggestedBindingRedirects.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExercicioWhile\src\ConsoleExercicioWhile\obj\Debug\ConsoleExercicioWhile.csproj.CoreCompileInputs.cache
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExercicioWhile\src\ConsoleExercicioWhile\obj\Debug\ConsoleExercicioWhile.exe
-D:\pedro\Documents\Repositorios\Devs2Blu\AulaWhileForArray\SlnExercicioWhile\src\ConsoleExercicioWhile\obj\Debug\ConsoleExercicioWhile.pdb
