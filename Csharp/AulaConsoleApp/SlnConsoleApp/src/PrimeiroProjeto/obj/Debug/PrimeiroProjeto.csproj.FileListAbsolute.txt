@@ -1,0 +1,8 @@
+D:\pedro\Documents\Repositorios\Devs2Blu\SlnConsoleApp\src\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+D:\pedro\Documents\Repositorios\Devs2Blu\SlnConsoleApp\src\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+D:\pedro\Documents\Repositorios\Devs2Blu\SlnConsoleApp\src\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
+D:\pedro\Documents\Repositorios\Devs2Blu\SlnConsoleApp\src\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.AssemblyReference.cache
+D:\pedro\Documents\Repositorios\Devs2Blu\SlnConsoleApp\src\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+D:\pedro\Documents\Repositorios\Devs2Blu\SlnConsoleApp\src\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\pedro\Documents\Repositorios\Devs2Blu\SlnConsoleApp\src\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+D:\pedro\Documents\Repositorios\Devs2Blu\SlnConsoleApp\src\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb

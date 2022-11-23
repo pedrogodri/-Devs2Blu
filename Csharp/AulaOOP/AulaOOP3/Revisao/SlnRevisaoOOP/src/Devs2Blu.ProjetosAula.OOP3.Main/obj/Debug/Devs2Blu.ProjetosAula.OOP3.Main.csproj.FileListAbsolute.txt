@@ -1,0 +1,26 @@
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe.config
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.AssemblyReference.cache
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CoreCompileInputs.cache
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CopyComplete
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
+C:\devs2blu\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe.config
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.AssemblyReference.cache
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.SuggestedBindingRedirects.cache
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CoreCompileInputs.cache
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CopyComplete
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
+D:\pedro\Documents\Repositorios\csharp\Curso\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaOOP3\Revisao\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb

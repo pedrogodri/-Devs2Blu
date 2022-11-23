@@ -1,0 +1,8 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaEstruturaCondicional\SlnEstruturaCondicional\src\ConsoleEstruturaCondicional\bin\Debug\ConsoleEstruturaCondicional.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaEstruturaCondicional\SlnEstruturaCondicional\src\ConsoleEstruturaCondicional\bin\Debug\ConsoleEstruturaCondicional.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaEstruturaCondicional\SlnEstruturaCondicional\src\ConsoleEstruturaCondicional\bin\Debug\ConsoleEstruturaCondicional.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaEstruturaCondicional\SlnEstruturaCondicional\src\ConsoleEstruturaCondicional\obj\Debug\ConsoleEstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaEstruturaCondicional\SlnEstruturaCondicional\src\ConsoleEstruturaCondicional\obj\Debug\ConsoleEstruturaCondicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaEstruturaCondicional\SlnEstruturaCondicional\src\ConsoleEstruturaCondicional\obj\Debug\ConsoleEstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaEstruturaCondicional\SlnEstruturaCondicional\src\ConsoleEstruturaCondicional\obj\Debug\ConsoleEstruturaCondicional.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\GitHub\AulaEstruturaCondicional\SlnEstruturaCondicional\src\ConsoleEstruturaCondicional\obj\Debug\ConsoleEstruturaCondicional.pdb
