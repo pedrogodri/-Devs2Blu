@@ -15,12 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\pedro\Documents\+Devs2Blu\C# MVC\SlnPrimeiroProjetoMVC\src\Devs2Blu.ProjetosAula.PrimeiroProjetoMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnPrimeiroProjetoMVC/src/Devs2Blu.ProjetosAula.PrimeiroProjetoMVC/Views/Home/Cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnPrimeiroProjetoMVC/src/Devs2Blu.ProjetosAula.PrimeiroProjetoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnPrimeiroProjetoMVC/src/Devs2Blu.ProjetosAula.PrimeiroProjetoMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnPrimeiroProjetoMVC/src/Devs2Blu.ProjetosAula.PrimeiroProjetoMVC/Views/Home/Teste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnPrimeiroProjetoMVC/src/Devs2Blu.ProjetosAula.PrimeiroProjetoMVC/Views/Shared/Error.cshtml]

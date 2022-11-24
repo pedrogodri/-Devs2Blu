@@ -15,10 +15,15 @@ namespace Devs2Blu.ProjetosAula.PrimeiroProjetoMVC.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View("TESTE");
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult Cadastro()
         {
             return View();
         }
