@@ -15,7 +15,7 @@ namespace Devs2Blu.ProjetosAula.PrimeiroProjetoMVC.Controllers
 
         public IActionResult Index()
         {
-            return View("TESTE");
+            return View("Teste");
         }
 
         public IActionResult Privacy()
@@ -23,6 +23,9 @@ namespace Devs2Blu.ProjetosAula.PrimeiroProjetoMVC.Controllers
             return View();
         }
 
+        [Route("home/cadastro")]
+        [Route("cadastro")]
+        [Route("cadastre-se")]
         public IActionResult Cadastro()
         {
             return View();
