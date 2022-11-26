@@ -3,9 +3,7 @@
     public class User
     {
         public int Id { get; set; }
-
-        public String Name { get; set; }
-
-        public String Login { get; set; }
+        public string Name { get; set; }
+        public string Login { get; set; }
     }
 }

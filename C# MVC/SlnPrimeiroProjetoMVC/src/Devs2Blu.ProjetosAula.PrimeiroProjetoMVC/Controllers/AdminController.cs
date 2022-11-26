@@ -10,13 +10,13 @@ namespace Devs2Blu.ProjetosAula.PrimeiroProjetoMVC.Controllers
         {
             List<User> users = new List<User>()
             {
-                new User {Id = 1, Name = "Pedro Godri", Login = "pedroG"},
-                new User {Id = 2, Name = "Rafael Ronchi", Login = "rafaR"},
-                new User {Id = 3, Name = "Vitor Schiphorst", Login = "vitorS"},
-                new User {Id = 4, Name = "Barbara Nascimento", Login = "barbaraN"},
-                new User {Id = 5, Name = "Nicolas Maba", Login = "nicolasM"},
-                new User {Id = 6, Name = "Nany Godri", Login = "nanyG"},
-                new User {Id = 7, Name = "Gian Godri", Login = "gianG" }
+             new User { Id = 1, Name = "João Silva", Login = "joaos" }, 
+             new User { Id = 2, Name = "Marcos Santos", Login = "marcoss" }, 
+             new User { Id = 3, Name = "Carlos Lima", Login = "carlosl" }, 
+             new User { Id = 4, Name = "Augusto Bonatti", Login = "augustob" }, 
+             new User { Id = 5, Name = "Yuri Schmidt", Login = "yuris" }, 
+             new User { Id = 6, Name = "Yung Lee Tsu", Login = "yungt" }, 
+             new User { Id = 7, Name = "Ramon Lisboa", Login = "ramonl" } 
             };
             return View(users);
         }
