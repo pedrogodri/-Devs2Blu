@@ -1,0 +1,19 @@
+﻿@model ChuckNorris
+@{
+    ViewData["Title"] = "API Chuck Norris";
+}
+
+<div class="text-center">
+    <h1 class=display-4>@ViewData["Title"]</h1>
+</div>
+
+<div class="row">
+    @foreach (var item in Model.result)
+    {
+            <div class="card col-2">
+                <div class="card-header bg-danger">
+                    <h2 class="text-white">@item.value</h2>
+                </div>
+            </div>
+    }
+</div>
