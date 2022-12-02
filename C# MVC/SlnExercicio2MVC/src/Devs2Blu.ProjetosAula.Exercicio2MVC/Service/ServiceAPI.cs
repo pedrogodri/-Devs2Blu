@@ -1,5 +1,6 @@
 ﻿using Devs2Blu.ProjetosAula.Exercicio2MVC.Models.DTOAPI;
 using System.Runtime.CompilerServices;
+using System.Net.Http;
 
 namespace Devs2Blu.ProjetosAula.Exercicio2MVC.Service
 {
