@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SPFVmB3wXEIUKIqNoUorjtEHzJr4Xu4qffh99rLjbAU=",
+  "Hash": "B6RMWqDcAW6sc5Sq8pDnGfUnGHacCR5V2UoNWu4JYTE=",
   "Source": "Devs2Blu.ProjetosAula.Exercicio2MVC",
   "BasePath": "_content/Devs2Blu.ProjetosAula.Exercicio2MVC",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\pedro\\Documents\\+Devs2Blu\\C# MVC\\SlnExercicio2MVC\\src\\Devs2Blu.ProjetosAula.Exercicio2MVC\\wwwroot\\js\\scripts.js",
+      "SourceId": "Devs2Blu.ProjetosAula.Exercicio2MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\pedro\\Documents\\+Devs2Blu\\C# MVC\\SlnExercicio2MVC\\src\\Devs2Blu.ProjetosAula.Exercicio2MVC\\wwwroot\\",
+      "BasePath": "_content/Devs2Blu.ProjetosAula.Exercicio2MVC",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "D:\\pedro\\Documents\\+Devs2Blu\\C# MVC\\SlnExercicio2MVC\\src\\Devs2Blu.ProjetosAula.Exercicio2MVC\\wwwroot\\js\\site.js",

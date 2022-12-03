@@ -55,7 +55,7 @@ namespace Devs2Blu.ProjetosAula.Exercicio2MVC.Service
 
         public async Task<HttpResponseMessage> GetAsync(string url)
         {
-            var getRequest = new HttpResponseMessage()
+            var getRequest = new HttpRequestMessage()
             {
                 Method = HttpMethod.Get,
                 RequestUri = new Uri(url)
