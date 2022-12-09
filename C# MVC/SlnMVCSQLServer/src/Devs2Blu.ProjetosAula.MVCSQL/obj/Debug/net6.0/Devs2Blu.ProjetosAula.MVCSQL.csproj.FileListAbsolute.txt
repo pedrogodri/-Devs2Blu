@@ -1,0 +1,8 @@
+D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServer\src\Devs2Blu.ProjetosAula.MVCSQL\obj\Debug\net6.0\Devs2Blu.ProjetosAula.MVCSQL.csproj.AssemblyReference.cache
+D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServer\src\Devs2Blu.ProjetosAula.MVCSQL\obj\Debug\net6.0\Devs2Blu.ProjetosAula.MVCSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServer\src\Devs2Blu.ProjetosAula.MVCSQL\obj\Debug\net6.0\Devs2Blu.ProjetosAula.MVCSQL.AssemblyInfoInputs.cache
+D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServer\src\Devs2Blu.ProjetosAula.MVCSQL\obj\Debug\net6.0\Devs2Blu.ProjetosAula.MVCSQL.AssemblyInfo.cs
+D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServer\src\Devs2Blu.ProjetosAula.MVCSQL\obj\Debug\net6.0\Devs2Blu.ProjetosAula.MVCSQL.csproj.CoreCompileInputs.cache
+D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServer\src\Devs2Blu.ProjetosAula.MVCSQL\obj\Debug\net6.0\Devs2Blu.ProjetosAula.MVCSQL.MvcApplicationPartsAssemblyInfo.cache
+D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServer\src\Devs2Blu.ProjetosAula.MVCSQL\obj\Debug\net6.0\Devs2Blu.ProjetosAula.MVCSQL.RazorAssemblyInfo.cache
+D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServer\src\Devs2Blu.ProjetosAula.MVCSQL\obj\Debug\net6.0\Devs2Blu.ProjetosAula.MVCSQL.RazorAssemblyInfo.cs
