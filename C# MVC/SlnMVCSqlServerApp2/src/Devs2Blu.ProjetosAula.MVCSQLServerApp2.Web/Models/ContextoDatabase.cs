@@ -13,6 +13,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            // Mapeamento de Relacionamento
             modelBuilder.Entity<Produto>()
                 .HasOne(p => p.Categoria)
                 .WithMany(c => c.Produtos);
