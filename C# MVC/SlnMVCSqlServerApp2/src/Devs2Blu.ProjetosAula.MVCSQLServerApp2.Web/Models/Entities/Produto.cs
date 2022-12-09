@@ -15,13 +15,15 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Models.Entities
         public string Nome { get; set; }
 
         [Column("preco")]
-        [Display(Name = "Preco")]
+        [Display(Name = "Preço")]
         public Decimal Preco { get; set; }
 
         [Column("quantidade")]
         [Display(Name = "Quantidade")]
         public int Quantidade { get; set; }
-        
+
+        [Column("id_categoria")]
+        [Display(Name = "Categoria")]
         public Categoria Categoria { get; set; }
     }
 }
