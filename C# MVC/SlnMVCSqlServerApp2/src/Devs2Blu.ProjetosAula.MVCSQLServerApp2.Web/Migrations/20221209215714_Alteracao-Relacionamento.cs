@@ -8,6 +8,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Migrations
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+
             migrationBuilder.CreateTable(
                 name: "categorias",
                 columns: table => new
