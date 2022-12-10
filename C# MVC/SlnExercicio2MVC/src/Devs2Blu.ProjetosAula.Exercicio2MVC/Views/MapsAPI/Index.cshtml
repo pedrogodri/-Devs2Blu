@@ -1,0 +1,13 @@
+﻿<div class="row">
+    <h1 class="text-danger">Lista de Mapas Valorant</h1>
+</div>
+
+<div class="row" id="content-list"></div>
+
+@section Scripts {
+    <scrip type="text/javascript">
+        $(document).ready(() =>{
+            getView('maps', 'loadmaps', '#content-list');
+        });
+    </scrip>
+}
