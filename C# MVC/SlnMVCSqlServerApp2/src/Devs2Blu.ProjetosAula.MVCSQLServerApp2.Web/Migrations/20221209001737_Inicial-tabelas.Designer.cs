@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Migrations
 {
     [DbContext(typeof(ContextoDatabase))]
-    [Migration("20221209215714_Alteracao-Relacionamento")]
-    partial class AlteracaoRelacionamento
+    [Migration("20221209001737_Inicial-tabelas")]
+    partial class Inicialtabelas
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

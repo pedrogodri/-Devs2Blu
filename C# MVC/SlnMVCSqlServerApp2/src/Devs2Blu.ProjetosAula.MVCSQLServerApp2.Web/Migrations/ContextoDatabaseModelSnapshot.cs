@@ -49,7 +49,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("CategoriaId")
+                    b.Property<int>("Id_Categoria")
                         .HasColumnType("int");
 
                     b.Property<string>("Nome")
@@ -67,7 +67,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CategoriaId");
+                    b.HasIndex("Id_Categoria");
 
                     b.ToTable("produtos");
                 });
@@ -76,7 +76,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Migrations
                 {
                     b.HasOne("Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Models.Entities.Categoria", "Categoria")
                         .WithMany("Produtos")
-                        .HasForeignKey("CategoriaId")
+                        .HasForeignKey("Id_Categoria")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

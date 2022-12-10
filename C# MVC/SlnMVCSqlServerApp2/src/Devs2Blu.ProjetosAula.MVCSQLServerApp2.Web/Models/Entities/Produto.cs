@@ -22,8 +22,8 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Models.Entities
         [Display(Name = "Quantidade")]
         public int Quantidade { get; set; }
 
-        [Column("id_categoria")]
+        [Column("CategoriaId")]
         [Display(Name = "Categoria")]
-        public Categoria Categoria { get; set; }
+        public int CategoriaId { get; set; }
     }
 }

@@ -14,15 +14,17 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Mapeamento de Relacionamento
-            modelBuilder.Entity<Produto>()
+           /* modelBuilder.Entity<Produto>()
                 .HasOne(p => p.Categoria)
-                .WithMany(c => c.Produtos);
+                .WithMany(c => c.Produtos);*/
+
             base.OnModelCreating(modelBuilder);
         }
 
         #region DbSets
         public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Produto> Produto { get; set; }
+
         #endregion
     }
 }

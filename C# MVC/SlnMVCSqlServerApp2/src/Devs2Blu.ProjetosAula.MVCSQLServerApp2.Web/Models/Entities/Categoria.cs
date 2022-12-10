@@ -9,11 +9,11 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Models.Entities
         [Column("id")]
         [Display(Name = "Código")]
         public int Id { get; set; }
-        
+
         [Column("nome")]
         [Display(Name = "Nome")]
         public string Nome { get; set; }
 
-        public ICollection<Produto> Produtos { get; set; }
+        //public ICollection<Produto> Produtos { get; set; }
     }
 }

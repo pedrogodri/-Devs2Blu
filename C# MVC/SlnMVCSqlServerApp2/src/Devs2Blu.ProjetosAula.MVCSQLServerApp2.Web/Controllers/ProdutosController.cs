@@ -44,8 +44,9 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Controllers
         }
 
         // GET: Produtos/Create
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
+            ViewBag.data = await _context.Categoria.ToListAsync();
             return View();
         }
 
@@ -54,7 +55,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nome,Preco,Quantidade")] Produto produto)
+        public async Task<IActionResult> Create([Bind("Id,Nome,Preco,Quantidade,CategoriaId")] Produto produto)
         {
             if (ModelState.IsValid)
             {
@@ -62,6 +63,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerApp2.Web.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewBag.data = await _context.Categoria.ToListAsync();
             return View(produto);
         }
 
