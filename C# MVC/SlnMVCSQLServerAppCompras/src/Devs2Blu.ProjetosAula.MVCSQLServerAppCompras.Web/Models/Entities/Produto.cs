@@ -21,10 +21,13 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models.Entities
 
         [Column("quantidade")]
         [Display(Name = "Quantidade")]
+
         public int Quantidade { get; set; }
 
         [Column("CategoriaId")]
         [Display(Name = "Categoria")]
         public int CategoriaId { get; set; }
+
+        public virtual Categoria Categoria { get; set; }
     }
 }
