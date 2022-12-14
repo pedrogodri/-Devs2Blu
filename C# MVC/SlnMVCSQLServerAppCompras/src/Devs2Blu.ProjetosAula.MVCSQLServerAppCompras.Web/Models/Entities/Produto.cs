@@ -17,7 +17,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models.Entities
 
         [Column("preco")]
         [Display(Name = "Preço")]
-        public Decimal Preco { get; set; }
+        public Double Preco { get; set; }
 
         [Column("quantidade")]
         [Display(Name = "Quantidade")]
@@ -26,5 +26,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models.Entities
         [Column("CategoriaId")]
         [Display(Name = "Categoria")]
         public int CategoriaId { get; set; }
+
+        public virtual Categoria Categoria { get; set; }
     }
 }

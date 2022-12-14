@@ -14,6 +14,6 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models.Entities
         [Display(Name = "Nome")]
         public string Nome { get; set; }
 
-        //public ICollection<Produto> Produtos { get; set; }
+        public ICollection<Produto> Produtos { get; set; }
     }
 }
