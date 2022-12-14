@@ -20,7 +20,6 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models
                 .HasForeignKey(p => p.CategoriaId);
 
             // Seed
-
             modelBuilder.Entity<Categoria>()
                 .HasData(
                     new { Id = 1, Nome = "Alimentos Não Perecíveis" },
