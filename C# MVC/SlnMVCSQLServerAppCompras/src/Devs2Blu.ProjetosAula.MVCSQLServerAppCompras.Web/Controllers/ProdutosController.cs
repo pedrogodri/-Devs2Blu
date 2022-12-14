@@ -48,7 +48,7 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Controllers
         // GET: Produtos/Create
         public IActionResult Create()
         {
-            ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Nome");
+            ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Nome", "Selecione...");
             return View();
         }
 
