@@ -17,11 +17,10 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models.Entities
 
         [Column("preco")]
         [Display(Name = "Preço")]
-        public Decimal Preco { get; set; }
+        public Double Preco { get; set; }
 
         [Column("quantidade")]
         [Display(Name = "Quantidade")]
-
         public int Quantidade { get; set; }
 
         [Column("CategoriaId")]
