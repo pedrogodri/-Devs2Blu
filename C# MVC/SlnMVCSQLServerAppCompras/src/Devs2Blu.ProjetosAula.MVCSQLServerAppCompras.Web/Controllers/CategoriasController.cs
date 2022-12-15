@@ -1,14 +1,26 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models.Entities;
+using Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Services.Interfaces;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Controllers
 {
     public class CategoriasController : Controller
     {
-        // GET: CategoriasController
-        public ActionResult Index()
+        private readonly ICategoriaService _service;
+
+        public CategoriasController(ICategoriaService service)
         {
-            return View();
+            _service = service;
+        }
+
+        // GET: CategoriasController
+        public async Task<ActionResult> Index()
+        {
+            var listCategorias = await _service.GetAllCategorias();
+            return View(listCategorias);
         }
 
         // GET: CategoriasController/Details/5
@@ -26,16 +38,20 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Controllers
         // POST: CategoriasController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<ActionResult> Create([Bind("Id,Nome")] Categoria categoria)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    await _service.Save(categoria);
+                    return RedirectToAction(nameof(Index));
+                }
             }
             catch
             {
-                return View();
             }
+                return View(categoria);
         }
 
         // GET: CategoriasController/Edit/5

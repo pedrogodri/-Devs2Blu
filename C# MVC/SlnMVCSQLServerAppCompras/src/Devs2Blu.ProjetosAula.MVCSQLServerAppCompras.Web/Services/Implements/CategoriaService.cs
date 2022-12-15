@@ -17,5 +17,10 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Services.Implements
         {
             return await _repository.GetAll();
         }
+
+        public async Task<int> Save(Categoria categoria)
+        {
+            return await _repository.SaveCategoria(categoria);
+        }
     }
 }

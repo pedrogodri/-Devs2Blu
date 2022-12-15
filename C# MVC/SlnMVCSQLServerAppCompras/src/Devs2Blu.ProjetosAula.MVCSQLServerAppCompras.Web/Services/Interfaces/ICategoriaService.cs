@@ -4,6 +4,8 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Services.Interfaces
 {
     public interface ICategoriaService
     {
-            Task<IEnumerable<Categoria>> GetAllCategorias();
+        Task<IEnumerable<Categoria>> GetAllCategorias();
+
+        Task<int> Save(Categoria categoria);
     }
 }
