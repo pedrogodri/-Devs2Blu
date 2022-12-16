@@ -1,7 +1,14 @@
+using Devs2Blu.ProjetoAula.Exercicio.Web.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Context DB SQL Server
+builder.Services.AddDbContext<ContextoDatabase>
+    (options => options.UseSqlServer("Server=DESKTOP-JB24L2U;Database=CatalogoFilmes;User Id=sa;Password=admin;"));
 
 var app = builder.Build();
 
