@@ -1,4 +1,7 @@
 using Devs2Blu.ProjetoAula.Exercicio.Web.Models;
+using Devs2Blu.ProjetoAula.Exercicio.Web.Repository;
+using Devs2Blu.ProjetoAula.Exercicio.Web.Services.Implements;
+using Devs2Blu.ProjetoAula.Exercicio.Web.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +12,16 @@ builder.Services.AddControllersWithViews();
 // Context DB SQL Server
 builder.Services.AddDbContext<ContextoDatabase>
     (options => options.UseSqlServer("Server=DESKTOP-JB24L2U;Database=CatalogoFilmes;User Id=sa;Password=admin;"));
+
+/*
+ * Dependency Injection
+ */
+
+// Repositories
+builder.Services.AddScoped<CategoriaRepository, CategoriaRepository>();
+
+// Services
+builder.Services.AddScoped<ICategoriaService, CategoriaService>();
 
 var app = builder.Build();
 

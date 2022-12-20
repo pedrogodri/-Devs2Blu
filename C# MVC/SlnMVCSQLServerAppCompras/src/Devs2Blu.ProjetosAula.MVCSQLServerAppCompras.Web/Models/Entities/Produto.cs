@@ -26,6 +26,10 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models.Entities
         [Display(Name = "Categoria")]
         public int CategoriaId { get; set; }
 
+        [Display(Name = "Marca")]
+        public int? MarcaId { get; set; }
+
         public virtual Categoria? Categoria { get; set; }
+        public virtual Marca? Marca { get; set; }
     }
 }
