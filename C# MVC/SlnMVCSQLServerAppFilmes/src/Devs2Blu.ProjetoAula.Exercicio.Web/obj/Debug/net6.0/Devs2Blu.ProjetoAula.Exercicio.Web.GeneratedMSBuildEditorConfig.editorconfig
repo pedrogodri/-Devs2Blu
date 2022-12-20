@@ -15,6 +15,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\pedro\Documents\+Devs2Blu\C# MVC\SlnMVCSQLServerAppFilmes\src\Devs2Blu.ProjetoAula.Exercicio.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Categorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Filmes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Filmes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Filmes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Filmes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Filmes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/pedro/Documents/+Devs2Blu/C\# MVC/SlnMVCSQLServerAppFilmes/src/Devs2Blu.ProjetoAula.Exercicio.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

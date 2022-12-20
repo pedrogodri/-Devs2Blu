@@ -19,6 +19,11 @@ namespace Devs2Blu.ProjetosAula.MVCSQLServerAppCompras.Web.Models
                 .WithMany(c => c.Produtos)
                 .HasForeignKey(p => p.CategoriaId);
 
+            modelBuilder.Entity<Produto>()
+                .HasOne(produto => produto.Marca)
+                .WithMany(marca => marca.Produtos)
+                .HasForeignKey(produto => produto.MarcaId);
+
             // Seed
             modelBuilder.Entity<Categoria>()
                 .HasData(
