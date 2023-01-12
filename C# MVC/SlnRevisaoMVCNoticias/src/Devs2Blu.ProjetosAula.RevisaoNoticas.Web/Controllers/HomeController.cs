@@ -1,6 +1,8 @@
 ﻿using Devs2Blu.ProjetosAula.RevisaoNoticas.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Devs2Blu.ProjetosAula.RevisaoNoticas.Web.Models.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Devs2Blu.ProjetosAula.RevisaoNoticas.Web.Controllers
 {

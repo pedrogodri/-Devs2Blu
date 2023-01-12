@@ -15,7 +15,7 @@ namespace Devs2Blu.ProjetosAula.RevisaoNoticas.Web.Models.Entities
         [Display(Name = "Titulo")]
         public string Titulo { get; set; }
 
-        [Column("descricao")]
+        [Column(TypeName = "TEXT")]
         [Display(Name = "Descrição")]
         public string Descricao { get; set; }
 
