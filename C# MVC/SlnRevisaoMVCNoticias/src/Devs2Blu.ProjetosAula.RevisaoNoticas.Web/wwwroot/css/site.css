@@ -23,22 +23,23 @@ body {
     font-size: 14px;
     font-family: "montserrat";
     text-decoration: none;
-    border: 2px solid green;
+    border: 2px solid #0094ff;
     text-transform: uppercase;
     overflow: hidden;
     transition: 1s all ease;
+    margin-bottom: 10px;
 }
 
-.btn::before {
-    background: green;
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    z-index: -1;
-    transition: all 0.6s ease;
-}
+    .btn::before {
+        background: #0094ff;
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        z-index: -1;
+        transition: all 0.6s ease;
+    }
 
 .btn3::before {
     width: 100%;
@@ -49,3 +50,27 @@ body {
 .btn3:hover::before {
     height: 600%;
 }
+
+.btnEdit {
+    border: 2px solid #ffd800;
+}
+
+    .btnEdit::before {
+        background: #ffd800;
+    }
+
+.btnDetails {
+    border: 2px solid #b200ff;
+}
+
+    .btnDetails::before {
+        background: #b200ff;
+    }
+
+.btnDelete {
+    border: 2px solid #ff0000;
+}
+
+    .btnDelete::before {
+        background: #ff0000;
+    }
