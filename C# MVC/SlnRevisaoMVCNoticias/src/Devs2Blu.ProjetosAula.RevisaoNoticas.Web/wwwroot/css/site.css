@@ -27,6 +27,7 @@ body {
     text-transform: uppercase;
     overflow: hidden;
     transition: 1s all ease;
+    margin-top: 10px;
     margin-bottom: 10px;
 }
 
@@ -73,4 +74,12 @@ body {
 
     .btnDelete::before {
         background: #ff0000;
+    }
+
+.btnCreate {
+    border: 2px solid #00ff21;
+}
+
+    .btnCreate::before {
+        background: #00ff21;
     }
